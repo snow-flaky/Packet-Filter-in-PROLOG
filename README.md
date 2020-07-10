@@ -1,5 +1,4 @@
 # Firewall Rules Encoded in Predicate Logic
-<p align="center"> <b>Shristi Kumari(BITS Pilani)</b> </p>
 
 The aim of this Project is to encode Firewall Rules using Predicate Logic. **SWI-Prolog**; a software implementation of prolog has been used for the coding part.
 
